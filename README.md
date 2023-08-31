@@ -12,4 +12,4 @@ Sumário Executivo
 
 5. Dashboard Completo: Fiz o dashboard completo, mostrando os resultados das consultas SQL, bem como suas perguntas e gráficos relacionados.
 
-Link da apresentação em vídeo: 
+Link da apresentação em vídeo: https://drive.google.com/file/d/1OgBabO7PvwMLkI1dV76XF9u4VjCF_tLh/view?usp=sharing 
